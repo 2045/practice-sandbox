@@ -1,5 +1,4 @@
 # practice-sandbox
-A sandbox for practicing Git and GitHub contributions.
 
 Eng: A sandbox for practicing Git and GitHub contributions.
 
